@@ -1,6 +1,6 @@
 const players = [
   {
-    Nom: "Cristiano Ronaldo",
+    Nom: "Cristiano Ronaldo (GOAT)",
     Equipe: "Al Nassr",
     Nationalite: "Portugal",
     NumeroMaillot: 7,
@@ -21,7 +21,7 @@ const players = [
     Nom: "Kylian Mbappé",
     Equipe: "Real Madrid",
     Nationalite: "France",
-    NumeroMaillot: 9,
+    NumeroMaillot: 10,
     age: 25,
     imageUrl:
       "https://assets-fr.imgfoot.com/media/cache/642x382/baposasuna.jpg",
